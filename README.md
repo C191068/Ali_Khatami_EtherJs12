@@ -17,6 +17,24 @@ Alchemy provide the window into the data that users control <br>
 
 All transactions that we submit are recorded on blockchain <br>
 
+They are not controlled by alchemy and they are not controlled by any service <br>
+provider <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
