@@ -15,6 +15,10 @@ if there is nay usage error on website or pending transaction is stuck<br>
 
 Alchemy provide the window into the data that users control <br>
 
+All transactions that we submit are recorded on blockchain <br>
+
+
+
 
 
 
