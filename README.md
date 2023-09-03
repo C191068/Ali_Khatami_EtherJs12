@@ -1,4 +1,4 @@
-# Ali_Khatami_EtherJs12(learning from the video fo Albert from Alchemy team)
+# Ali_Khatami_EtherJs12(learning from the video of Albert from Alchemy team)
 
 
 ### Alchemy dashboard and the Mempool 
